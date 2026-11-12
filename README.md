@@ -2,7 +2,7 @@
 
 A responsive coffee shop landing page built with HTML, CSS, and JavaScript. This project was created while following a YouTube front-end tutorial to practice modern page layouts, styling, and mobile navigation.
 
-**Live Site:** [sandipbeghaa.github.io/coffee-website](https://github.io)
+**Live Site:** https://sandipbeghaa.github.io/coffee-website/
 
 ## What's Inside
 
